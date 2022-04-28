@@ -1,0 +1,93 @@
+h1{
+    background-color: #d6a387;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    font-size: 500%;
+    font-family: 'Times New Roman', Times, serif;
+} 
+
+h2{
+    text-align: center;
+    font-weight: bold;
+}
+
+body{
+    background-color: antiquewhite;
+}
+
+main{
+    font-size: 180%;
+    padding-top: 1%;
+}
+
+footer {
+    text-align: center;
+    font-size: 100%;
+    padding-top:15%;
+}
+
+
+nav {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 250%;
+    font-weight: bolder;
+    text-align: center;
+    padding-bottom: 20px;
+    background-color: #e2b197;
+    padding-top: 20px;
+}
+
+nav a:link{
+    color: azure;
+    text-decoration: none;
+}
+
+nav a:visited{
+    color:azure;
+}
+
+nav a:hover{
+    color:#c1c4b3;
+}
+
+form{
+    padding: 2em;
+    text-align: center;
+    padding-left: 18em;
+}
+
+input{
+    font-size: 100%;
+    display:block;  
+    margin-bottom: 1em;
+}
+
+textarea{
+    display:block;  
+    margin-bottom: 1em;
+}
+
+label{
+    float: left;
+    display: block;
+    text-align: left;
+    width: 8em;
+    padding-right: 1em;
+}
+
+#login{
+    padding-top: 1em;
+    padding-left: 8em;
+}
+
+select{
+    font-size: 100%;
+    display:block;  
+    margin-bottom: 1em;
+}
+
+td{
+    padding-left: 20em;
+    text-align: center;
+}
